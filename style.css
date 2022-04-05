@@ -1,0 +1,562 @@
+
+        body {
+            margin: 0px;
+            padding: 0px;
+            background-color: black;
+            height: 100%;
+        }
+
+        .resumebox {
+            width: 850px;
+            height: 1850px;
+            margin: 0 auto;
+            background-color: white;
+        }
+
+        .box.outer {
+            padding: 30px;
+        }
+
+        .box1 {
+            background-color: rgb(36, 198, 226);
+            width: 300px;
+            float: left;
+            height: 1850px;
+
+        }
+
+        .profile {
+            height: 230px;
+
+            width: 230px;
+
+            border: white solid;
+            border-radius: 50%;
+            margin-left: 20px;
+
+
+
+
+        }
+
+        .content {
+            padding: 15px;
+            font-size: 18px;
+
+
+
+        }
+
+        h2 {
+            color: rgb(5, 46, 70);
+
+            font-weight: 50px;
+            text-transform: capitalize;
+        }
+
+        h6 {
+            color: rgb(4, 43, 48);
+            font-size: 14px;
+        }
+
+        ul {
+            color: rgb(4, 43, 48);
+            font-size: 22px;
+        }
+
+        .box2 {
+            width: 500px;
+            float: left;
+            padding-bottom: 40px;
+        }
+
+        .intro {
+            text-align: center;
+        }
+
+        .intro h1 {
+            font-size: 40px;
+            font-style: bold;
+            color: #26252d;
+            text-align: center;
+        }
+
+        .hr {
+            height: 2px;
+            background-color: black;
+            margin: -25px 0px;
+        }
+
+        .content2a {
+            padding-top: 40px;
+            margin: 10px;
+        
+
+        }
+
+        .item {
+            color: #26252d;
+            font-weight: 50px;
+            text-transform: uppercase;
+            margin: 0px;
+
+        }
+
+        .para {
+            color: darkslategray;
+            font-size: 18px;
+            margin: 0px;
+            padding-top: 15px;
+
+        }
+
+        .user {
+            color: #26252d;
+            font-weight: 50px;
+            text-transform: uppercase;
+            margin: 0px;
+            padding-top: 15px;
+
+        }
+
+        .user1 {
+            color: darkslategray;
+            font-weight: 300px;
+            padding-top: 15px;
+            ;
+
+            text-transform: uppercase;
+            margin: 0px;
+
+        }
+
+        .user3 {
+            color: #26252d;
+            margin: 0px;
+            font-size: 20px;
+            padding-top: 15px;
+        }
+
+        .user4 {
+            color: darkslategray;
+            margin: 0px;
+            font-size: 18px;
+            padding-top: 15px;
+
+
+        }
+
+        .user5 {
+            color: darkslategray;
+            font-weight: 300px;
+            text-transform: uppercase;
+            margin: 0px;
+            padding-top: 15px;
+        }
+
+        .user6 {
+            color: #26252d;
+            margin: 0px;
+            font-size: 20px;
+            padding-top: 15px;
+        }
+
+        .user7 {
+            color: darkslategray;
+            margin: 0px;
+            font-size: 18px;
+            padding-top: 15px;
+
+
+        }
+
+        .server {
+            color: #26252d;
+            margin: 0px;
+            font-size: 20px;
+            padding-top: 15px;
+
+        }
+        .aa1{
+            color: #26252d;
+            font-weight: 50px;
+            text-transform: uppercase;
+            margin: 0px;
+        }
+        .link{
+            position:relative;
+            bottom: 45px;
+    left: 68px;
+        }
+        .resumes{
+            font-size: 24px;
+        }
+        .a{
+            font-size: 22px;
+            position: relative;
+    left: 165px;
+    bottom: 51px;
+        }
+        .adds{
+            position:relative;
+            bottom:60px;
+        }
+        .links{
+            position:relative;
+            left: 159px;
+    bottom: 113px;
+        }
+        .parali{
+            color:darkslategrey;
+            position:relative;
+            bottom:417px;
+        }
+        .port{
+            position :relative;
+            bottom: 217px;
+    left: 109px;
+        }
+        .a1{
+            position:relative;
+            bottom:100px;
+        }
+        .x{
+            position:relative;
+            left:10px;
+            color:darkcyan;
+        }
+        .paralifolio{
+            color:darkslategrey;
+            position:relative;
+            bottom:5px;
+        }
+        .vikki{
+            position:relative;
+            bottom:37px;
+        }
+        .list{
+            position:relative;
+            left: 134px;
+    bottom: 92px;
+}
+.guru{
+    position:relative;
+    left: 130px;
+    bottom: 155px;
+}
+.lakshmi{
+    position:relative;
+    left:-4px;
+    bottom:162px;
+}
+.y{
+ position:relative;
+ bottom:241px;
+ right:29px;
+ color:darkcyan;
+}
+.paralicalci{
+    color:darkslategrey;
+    position:relative;
+    bottom:245px;
+}
+.veera{
+    position:relative;
+    bottom:280px;
+    right:-4px;
+}
+.varsha{
+    position:relative;
+    bottom: 331px;
+    right: -141px;
+}
+.maha{
+    position:relative;
+    bottom: 344px;
+    left: 7px;
+}
+.ice{
+    position:relative;
+    bottom: 404px;
+    left: 124px;
+}
+.Zee{
+    position:relative;
+    bottom:200px;
+    color:darkcyan;
+}
+.parlimeet{
+    color:darkslategrey;
+    position:relative;
+    bottom:200px;
+}
+.ishu{
+    position: relative;
+    bottom:434px;
+}
+.sound{
+    position:relative;
+    bottom:486px;
+    left:131px;
+}
+.eleven{
+    position:relative;
+    bottom:501px;
+}
+.twelve{
+    position:relative;
+    bottom:556px;
+    left:112px;
+}
+.food{
+    position:relative;
+    bottom:410px;
+    left:-23px;
+    color:darkcyan;
+}
+.thirteen{
+    position:relative;
+    bottom:579px;
+    left:-17px;
+    color:darkcyan;
+}
+.parlichat{
+    position:relative;
+    bottom:500px;
+    color:darkslategrey;
+}
+.fourteen{
+    position:relative;
+    bottom:576px;
+    right:37px;
+}
+.fifteen{
+    position:relative;
+    bottom:578px;
+    color:darkslategrey;
+}
+.seventeen{
+    position:relative;
+    bottom:628px;
+    left:102px;
+}
+.eighteen{
+    position:relative;
+    bottom:629px;
+    left:-35px;
+}
+.ninteen{
+    position:relative;
+    bottom:685px;
+    left:81px;
+}
+        
+        
+
+        @media only screen and (max-width:767px) {
+            .content2a {
+
+
+                width: 247px;
+
+            }
+
+            .intro h1 {
+                position: relative;
+                left: -7px;
+
+            }
+            .resumebox{
+                display:flex;
+                flex-direction: column;
+                height: 100%;
+                width: 400px;
+            }
+            body{
+               background-color: white;
+            }
+            .box2{
+                width:400px;
+                
+                padding:20px;
+            }
+            .para{
+               line-height: 28px;
+               width: 306px;
+               text-align:justify;
+            }
+            .box1{
+                
+                margin-left: -1px;
+                width: 359px;
+            }
+            .profile{
+                margin-left: 59px;
+            }
+            .user1{
+                
+                padding-left: 1px;
+                   width: 311px;
+                line-height: 30px;
+            }
+            .user{
+                padding-left: 1px;
+                width: 348px;
+             line-height: 30px;
+            }
+            .user3{
+                padding-left: 1px;
+                width: 348px;
+             line-height: 30px;
+            }
+            .user4{
+                
+                    padding-left: 1px;
+                    width: 348px;
+                 line-height: 30px;
+                }
+                .user5{
+                    
+                
+                        padding-left: 1px;
+                        width: 348px;
+                     line-height: 30px;
+                    }
+                    .user6{
+                    
+                
+                        padding-left: 1px;
+                        width: 348px;
+                     line-height: 30px;
+                    }
+                    .aa1{
+                        padding-left: 1px;
+    width: 348px;
+    line-height: 30px;
+}
+.parali{
+    
+        line-height: 28px;
+        width: 306px;
+        text-align:justify;
+        position: relative;
+        left:-32px;
+}
+.link{
+    left: 4px;
+    position: relative;
+    top: -16px;
+}
+.links{
+    position:relative;
+    left:4px;
+
+}
+.paralifolio{
+    line-height: 26px;
+    width: 283px;
+    position: relative;
+    right: 19px;
+}
+.vikki{
+    position:relative;
+    right:45px;
+}
+.list{
+    position:relative;
+    left:91px;
+}
+.a1{
+    position: relative;
+    right:40px;
+}
+.guru{
+    position:relative;
+    left:91px;
+}
+.lakshmi{
+    position:relative;
+    left:-38px;
+}
+.port{
+    position:relative;
+    left:93px;
+}
+.paralicalci{
+    line-height: 26px;
+    width: 283px;
+    position: relative;
+    right: 19px;
+
+}
+.veera{
+    position:relative;
+    right:44px;
+}
+.maha{
+    position: relative;
+    left:-39px;
+    top:-350px;
+}
+.ice{
+    position:relative;
+    left:81px;
+}
+.varsha{
+    position:relative;
+    left:88px;
+}
+.fifteen{
+    line-height: 26px;
+    width: 283px;
+    position: relative;
+    right: 54px;
+}
+.ishu{
+    position:relative;
+    left:-34px;
+
+}
+.sound{
+    position:relative;
+    left:107px;
+}
+.eleven{
+    position:relative;
+    left:-28px;
+}
+.twelve{
+    position:relative;
+    left:92px;
+}
+.fourteen{
+    position:relative;
+    left:-63px;
+}
+.seventeen{
+    position:relative;
+    left:77px;
+}
+.eighteen{
+    position:relative;
+    left:-61px;
+}
+.ninteen{
+    position:relative;
+    left:55px;
+}
+}
+
+                    
+                
+            
+
+            
+            
+            
+        
+
+
+
+
+
